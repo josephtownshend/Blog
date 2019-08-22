@@ -1,4 +1,5 @@
-# Learning through the lens of mentorship
+# Learning Through The Lens Of Mentorship
+
 During week 6 of Makers Academy, students have the opportunity to sign up to become a mentor for new students working on the remote 4 week pre-course. The rough idea is to help guide the mentees through their first few nerve-racking weeks, impart some personal learning, maybe work on a kata together and just generally answer questions about the looming 12 week bootcamp.
 
 The pre-course is different for everyone, some breeze through, others find it deeply troublesome - though it is generally accepted to be fairly challenging. My personal experience flitted from one extreme to another, feeling like a genius one moment to being overwhelmed with self doubt the next. Naturally this made for quite an unsettling month, so when the opportunity arose to work with a new and potentially nervous student I jumped at it. For me this was a chance to give someone all the reassurance and confidence I wish I’d had during that time. So I wrote my tagline, added it to the google doc and waited…
